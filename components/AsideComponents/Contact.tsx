@@ -19,7 +19,7 @@ export default function Contact() {
         <Socialmedia className=" flex gap-10 text-gray-400"/>
       </div>
 
-      <div className="flex w-screen gap-6 p-4
+      <div className="flex w-screen gap-6 p-4 flex-wrap
       ">
         <div className="text-gray-500  flex items-center gap-4">
           
