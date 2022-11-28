@@ -1,5 +1,5 @@
 import Socialmedia from "../ProfileComponent/SocialMedia";
-import { ImMail4 } from 'react-icons/im'
+import { ImMail4,ImWhatsapp } from 'react-icons/im'
 
 
 
@@ -11,7 +11,7 @@ export default function Contact() {
 
 
   return (
-    <div id="contact" className=' w-screen bg-[#363434] flex items-center gap-8 -mt-16 flex-col pt-16 pb-6 '>
+    <div id="" className=' w-screen bg-[#363434] flex items-center gap-8 -mt-16 flex-col pt-16 pb-6 '>
 
       <div className="flex flex-col items-center justify-center w-3/6 gap-5">
         <h1 className="font-bold text-white text-xl ">eramoss</h1>
@@ -19,16 +19,17 @@ export default function Contact() {
         <Socialmedia className=" flex gap-10 text-gray-400"/>
       </div>
 
-      <div className="flex w-screen">
-        <div className="text-gray-500  flex items-center p-6 gap-4">
+      <div className="flex w-screen gap-6 p-4
+      ">
+        <div className="text-gray-500  flex items-center gap-4">
           
           <ImMail4 className="text-3xl"/>
           <h1>edulramos@outlook.com</h1>
         </div>
-        <div className="text-gray-500  flex items-center p-6 gap-4">
+        <div className="text-gray-500  flex items-center gap-4">
           
-          <ImMail4 className="text-3xl "/>
-          <h1 className="">+55 (47) 99705 7214</h1>
+          <ImWhatsapp className="text-3xl "/>
+          <h1 >+55 (47) 99705 7214</h1>
         </div>
 
         

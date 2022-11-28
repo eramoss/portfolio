@@ -34,10 +34,9 @@ const Menu = () => {
 
       <DropdownMenu.Portal>
         <DropdownMenu.Content className="w-56 absolute md:top-0  -right-12 md:-right-8 rounded-md bg-gray-100 p-2 shadow-md duration-500 transition transform flex flex-col items-center gap-3" sideOffset={5}>
-            <a href='#contact' >contact</a>
-            <a href="#history">história</a>
-            <a href="#project">projetos</a>
-            <a href="https://github.com/eramoss">Meus repositórios</a>
+            <a href='/curriculo.pdf' download >Baixar CV</a>
+            <a href="https://www.linkedin.com/in/eramoss/">LinkedIn</a>
+            <a href="https://github.com/eramoss">Repositórios</a>
           
         </DropdownMenu.Content>
       </DropdownMenu.Portal>

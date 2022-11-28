@@ -7,7 +7,7 @@ import Socialmedia from './SocialMedia'
 export default function Footer() {
   return (
     <div className='w-full'>
-      <Socialmedia className='flex gap-4'/>
+      <Socialmedia className='pl-3 flex gap-4'/>
 
 
       <div className='flex flex-col items-center '>

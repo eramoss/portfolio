@@ -8,7 +8,7 @@ export default function Cards() {
     <div  className=' flex flex-col items-center gap-16 '>
 
       <h1 className="font-semibold text-4xl w-full text-center" >Trajetória acadêmica</h1>
-      <div className="flex gap-24">
+      <div className="flex gap-24 sm:flex-row flex-col ">
       <div className='flex items-center justify-center w-80'>
         <div className="flex flex-col">
           <img  className="border border-violet-600" src="/univali.jpeg" alt="" />
