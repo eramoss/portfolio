@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-export default function hookResize() {
+export default function UseResize() {
 
   const [width, setWidth] = useState(0)
   var Ratioxlg = 14

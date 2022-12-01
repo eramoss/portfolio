@@ -1,12 +1,12 @@
 import { useEffect,useState } from "react";
 import ImageRatio from "../AppComponents/ImageRatio";
-import hookResize from "./hookResize";
+import UseResize from "./hookResize";
 
 
 
 export default function Projects() {
   
-const {Ratiolg,Ratiomd,Ratiosm,Ratioxlg} = hookResize()
+const {Ratiolg,Ratiomd,Ratiosm,Ratioxlg} = UseResize()
     
 return (
 
