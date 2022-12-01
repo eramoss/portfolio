@@ -18,7 +18,7 @@ const ImageRatio = ({src, alt,FisrtRatio,SecondRatio, title}: AspectRatioProps) 
         src={src}
         alt={alt}
       />
-      <div className='h-full w-full  absolute top-0 hover:opacity-100 bg-black opacity-0 bg-opacity-40 duration-500 transition-all  '>
+      <div className='h-full w-full  absolute top-0 hover:opacity-100 hover:bg-opacity-30 bg-black opacity-0 bg-opacity-40 duration-500 transition-all  '>
 
           <h1 className=' text-white font-semibold absolute bottom-0 left-1' >{title}</h1>
       </div>

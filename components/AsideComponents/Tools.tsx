@@ -1,7 +1,7 @@
 import {
 
   SiStorybook,
-  SiVite,
+  SiNextdotjs,
   SiReact,
   SiTailwindcss,
   SiTypescript,
@@ -25,7 +25,7 @@ export default function Tools() {
             <SiTailwindcss   />
             <SiTypescript  />
             <SiReact  />
-            <SiVite />
+            <SiNextdotjs />
             <SiStorybook />
 
           </div>
