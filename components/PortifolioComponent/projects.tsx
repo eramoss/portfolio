@@ -8,13 +8,13 @@ export default function Projects() {
   return (
     <div className="w-full self-center bg-transparent flex flex-col justify-center  items-center gap-4 p-6 border-t-4  ">
       <div className="flex gap-4 sm:flex-nowrap flex-wrap justify-center ">
-        <a href="https://github.com/eramoss/Space-Notes">
+        <a href="https://github.com/eramoss/tachiyomi-extensions">
           <ImageRatio
-            title="Space Notes"
+            title="Tachiyomi Extension"
             FisrtRatio={9}
             SecondRatio={Ratioxlg}
-            src="/SpaceNotes.jpeg"
-            alt="repositorie of project notes mark"
+            src="/tachiyomi.png"
+            alt="repositorie of project"
           />
         </a>
         <a href="https://password-generator-eramoss.vercel.app/">
@@ -23,12 +23,12 @@ export default function Projects() {
             FisrtRatio={9}
             SecondRatio={Ratiomd}
             src="/passwordGenerator.png"
-            alt="repositorie of project password generator"
+            alt="repositorie of project"
           />
         </a>
-        <a href="https://github.com/eramoss/Design-System">
+        <a href="https://github.com/eramoss/Andarilho">
           <ImageRatio
-            title="Design System"
+            title="Andarilho API - a simple web scrapping"
             FisrtRatio={9}
             SecondRatio={Ratiolg}
             src="/designSystem.jpeg"
@@ -48,12 +48,12 @@ export default function Projects() {
           />
         </a>
         <div className="sm:-mt-36  ">
-          <a href="https://github.com/eramoss/Front-end-Challenges/tree/main/expenses-chart-component-main">
+          <a href="https://github.com/eramoss/stupid-ugly-diff">
             <ImageRatio
-              title="Expenses chart Component "
+              title="Simple diff tool in Rust"
               FisrtRatio={9}
               SecondRatio={Ratiolg}
-              src="/Expenses-chart.jpg"
+              src="https://image3.slideserve.com/6196810/2-lcs-and-sequence-alignment-l.jpg"
               alt="repositorie of project expenses chart component"
             />
           </a>
