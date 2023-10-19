@@ -5,24 +5,22 @@ export default function Text() {
     <div className='flex flex-col bg-white text-3xl w-full gap-3 max-w-3xl items-start '>
       <div className=' font-bold flex gap-1  items-center mb-4'>
         <AiOutlineMinus />
-        <h1>Oi!</h1>
+        <h1>Hi!</h1>
       </div>
 
       <div className='gap-2 text-5xl inline-block'>
         <h1 className=''>
-          Eu sou <strong className='font-semibold '>Eduardo Ramos</strong>
+          I'm <strong className='font-semibold '>Eduardo Ramos</strong>
         </h1>
       </div>
 
       <div className='flex flex-col gap-1'>
         <p>
-          Desenvolvedor Web, futuro Cientista da computação, Cursando Sistemas e
-          grande entusiasta de tecnologia.
+        An Computer Science student with a wide variety of experience in software, server and network.
         </p>
 
         <p className='text-sm '>
-          Não consigo falar tudo de mim em 3 linhas, então se quiser saber mais
-          é só dar uma olhadinha mais pra baixo
+          Sys-Admin at <a className='text-red-500' href="http://lite.acad.univali.br">UNIVALI - LITE</a>, creator and maintainer of <a className='text-red-500' href="https://github.com/eramoss/tachiyomi-extensions">MangaLivre extension for tachiyomi</a>
         </p>
       </div>
     </div>
