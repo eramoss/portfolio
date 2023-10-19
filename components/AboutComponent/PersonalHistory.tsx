@@ -1,28 +1,15 @@
 export default function PersonalHistory() {
   return (
     <div className='flex flex-col items-start py-8 w-full gap-2'>
-      <h1 className='text-lg underline p-4'>História na programação</h1>
+      <h1 className='text-lg underline p-4'>My little readme</h1>
       <p>
-        estou na área de desenvolvimento Front-end a quase 2 anos. Comecei em um
-        curso, no segundo ano do ensino médio, de Pensamento Computacional, que
-        foi oferecido pela Univali como curso extra curricular.
+      I enjoy exploring the different possibilities and nuances offered by each language, and I'm always eager to learn new ones. My curiosity and enthusiasm for programming drive me to continuously improve my skills and explore various problem-solving techniques.
       </p>
       <p>
-        Lá aprendi sobre os conceitos básicos, não só relacionado a programação,
-        mas também como computadores funcionam no baixo nível. E como um bom
-        curioso, sempre ficava mexendo no meu windows para customizar e afins (
-        No processo estraguei ele algumas vezes 😅 ). Acabei querendo
-        desenvolver aplicações web, mais por diversão e brincar com uns amigos
-        no começo, mas quando comecei a acompanhar conteúdos e forums na
-        internet vi que era algo que queria pra mim, principalmente por conta da
-        comunidade sempre muito ativa e querendo ajudar a resolver problemas.
+      Apart from programming languages, I'm a Linux enthusiast. My biggest dream is to construct a fully functional and innovative operating system. And I strive to build an operating system that embodies efficiency, security, and user-centric design. Through tireless dedication and a commitment to continuous learning,
       </p>
       <p>
-        E neste mesmo caminho conheci algumas pessoas, que me ajudaram e me
-        apresentaram ao mundo <strong className='font-semibold'>Linux </strong>
-        junto com uma vasta discussão sobre acessibilidade, não só em aplicações
-        web, mas também em sistemas operacionais. Hoje faço Sistemas para
-        internet na UNIVALI e pretendo seguir com Ciência da computação.
+      Additionally, I have a keen interest in science and mathematics. I enjoy diving into complex concepts and discovering their practical applications. These subjects inspire me to think critically and approach problem-solving from multiple angles. 
       </p>
     </div>
   );
