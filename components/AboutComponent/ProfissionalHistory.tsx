@@ -3,7 +3,7 @@ export default function ProfissionalHistory() {
     <div className='flex flex-col items-start w-full gap-2'>
       <h1 className='text-lg underline p-4'>Experiences</h1>
       <p>
-      Today, I work as a Sys-Admin and am a scholarship holder at the LITE Laboratory at UNIVALI. I have been learning a lot in this environment, especially by participating in the development of graduation projects (TCC) and contributing to the production of the ROPE learning robot.
+      Today, I work as a Sys-Admin and am a scholarship holder at the LITE Laboratory at UNIVALI. I have been learning a lot in this environment, especially by participating in the development of graduation projects and contributing to the production of the ROPE learning robot.
       </p>
 
       <p>
