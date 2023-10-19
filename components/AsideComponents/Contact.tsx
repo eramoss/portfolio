@@ -15,7 +15,7 @@ export default function Contact() {
 
       <div className="flex flex-col items-center justify-center w-3/6 gap-5">
         <h1 className="font-bold text-white text-xl ">eramoss</h1>
-        <h2 className="text-gray-500 text-center">Espero que tenha gostado de conhecer um pouco de de mim, e se quiser conversar comigo minhas redes sociais e contato estão abaixo</h2>
+        <h2 className="text-gray-500 text-center">&quot;Premature optimization is the root of all evil.&quot;</h2>
         <Socialmedia className=" flex gap-10 text-gray-400"/>
       </div>
 
