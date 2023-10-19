@@ -10,7 +10,7 @@ export default function ProfissionalHistory() {
       Furthermore, a significant portion of my experiences has involved open-source projects, both personal and voluntary.
       </p>
       <p>
-      In the academic sphere, I am currently pursuing a Bachelor's degree in Computer Science. Additionally, I have completed some vocational courses, such as ENTRA-21, and have taken extracurricular courses offered by UNIVALI during my high school years.
+      In the academic sphere, I am currently pursuing a Bachelor&apos;s degree in Computer Science. Additionally, I have completed some vocational courses, such as ENTRA-21, and have taken extracurricular courses offered by UNIVALI during my high school years.
       </p>
     </div>
   );

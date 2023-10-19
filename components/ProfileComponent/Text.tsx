@@ -10,7 +10,7 @@ export default function Text() {
 
       <div className='gap-2 text-5xl inline-block'>
         <h1 className=''>
-          I'm <strong className='font-semibold '>Eduardo Ramos</strong>
+          I&apos;m <strong className='font-semibold '>Eduardo Ramos</strong>
         </h1>
       </div>
 
