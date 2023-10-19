@@ -33,7 +33,7 @@ const Menu = () => {
             <label className='text-gray-600 text-xl mr-2' htmlFor='curriculo'>
               <GiCloudDownload />
             </label>
-            <div id='curriculo'>Baixar CV</div>
+            <div id='curriculo'>Resume</div>
           </a>
           <a
             href='https://www.linkedin.com/in/eramoss/'
@@ -52,7 +52,7 @@ const Menu = () => {
             <label className='text-gray-600 text-xl mr-2' htmlFor='github'>
               <BsGithub />
             </label>
-            <div id='github'>Repositórios</div>
+            <div id='github'>Repos</div>
           </a>
         </DropdownMenu.Content>
       </DropdownMenu.Portal>

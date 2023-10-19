@@ -32,8 +32,7 @@ const HoverCardDemo = () => (
               <div className="m-0 faded">@eramoss</div>
             </div>
             <div className="m-0">
-              Desenvolvedor Front-end com React, TypeScript e muito mais! <br />
-              && estusiasta UX e Linux
+            Bachelor&apos;s Computer Science student
             </div>
           </div>
         </div>
