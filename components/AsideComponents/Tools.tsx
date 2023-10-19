@@ -1,11 +1,10 @@
 import {
-
-  SiStorybook,
-  SiNextdotjs,
-  SiReact,
-  SiTailwindcss,
   SiTypescript,
-  SiNodedotjs
+  SiRust,
+  SiKotlin,
+  SiC,
+  SiCplusplus,
+  SiHaskell,
 
 } from 'react-icons/si'
 
@@ -17,16 +16,16 @@ export default function Tools() {
       <nav className="w-3/4 absolute h-full " >
 
         <div className='w-full h-full flex flex-col items-center justify-center  text-slate-100 gap-8'>
-            <h1 className='text-4xl' >Um pouco do que sei usar!</h1>
+            <h1 className='text-4xl' >Languages that i enjoy.</h1>
 
           <div className=" flex p-4 items-center justify-center text-7xl gap-11" > 
 
-            <SiNodedotjs  />
-            <SiTailwindcss   />
-            <SiTypescript  />
-            <SiReact  />
-            <SiNextdotjs />
-            <SiStorybook />
+            <SiRust  />
+            <SiKotlin   />
+            <SiC  />
+            <SiHaskell  />
+            <SiTypescript />
+            <SiCplusplus />
 
           </div>
         </div>
